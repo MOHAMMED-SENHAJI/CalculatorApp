@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="mode_simplifi">mode simplifié</string>
+    <string name="mode_scientific">mode scientific</string>
+    <string name="convertisseur_longeur">convertisseur longeur</string>
+    <string name="convertisseur_nombre">convertisseur nombre</string>
+    <string name="mode_normal">mode normal</string>
+</resources>
